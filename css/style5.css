@@ -1,0 +1,41 @@
+
+.game {
+    background-color: #0b3c5d;
+    margin: auto;
+    color: #ffcb05;
+    padding: 20px;
+    border: 3px solid #ffcb05;
+    border-radius: 10px;
+    width: 500px;
+    height: 400px;
+    padding: 5px;
+
+}
+
+
+.button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffcb05;
+    background: #0b3c5d;
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: '8BIT WONDER', sans-serif;
+    margin: 0 auto;
+    border: 3px solid #ffcb05;
+    
+    
+}
+
+.result-img {
+    height: 150px;
+    width: 150px;
+}
+
+
+
+
+
+
